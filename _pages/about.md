@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, my name is Jules Tsukahara"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello, my name is Jules Tsukahara. I am a prospective PhD student at Sorbonne Université, working with Elias Tsigaridas and Grégoire Sergeant-Perthuis. I hold a BSc and an MSc in Mathematics from King's College London, and an M2 in Mathematics and Machine Learning from ENS Paris-Saclay.
+I am a prospective PhD student at Sorbonne Université, working with [Elias Tsigaridas](https://who.paris.inria.fr/Elias.Tsigaridas/index.html) and [Grégoire Sergeant-Perthuis](https://gregoiresergeant-perthuis.com/research.html). I hold a BSc and an MSc in Mathematics from King's College London, and an [M2 in Mathematics and Machine Learning](https://www.master-mva.com/) from ENS Paris-Saclay.
 
-I am interested in computational algebraic geometry and singular learning theory, and their application to biology.
+I am interested in computational algebraic geometry and [singular learning theory](https://sites.google.com/view/sumiowatanabe/home), and their application to biology.
