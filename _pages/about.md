@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, my name is Jules Tsukahara"
+title: "Hello, my name is Jules Tsukahara."
 author_profile: true
 redirect_from: 
   - /about/
