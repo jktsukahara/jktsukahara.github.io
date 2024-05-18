@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a prospective PhD student at Sorbonne Université, working with [Elias Tsigaridas](https://who.paris.inria.fr/Elias.Tsigaridas/index.html) and [Grégoire Sergeant-Perthuis](https://gregoiresergeant-perthuis.com/research.html). I hold a BSc and an MSc in Mathematics from King's College London, and an [M2 in Mathematics and Machine Learning](https://www.master-mva.com/) from ENS Paris-Saclay.
+I am a prospective Ph.D student, based in Sorbonne Université. I am currently collaborating with [Elias Tsigaridas](https://who.paris.inria.fr/Elias.Tsigaridas/index.html) and [Grégoire Sergeant-Perthuis](https://gregoiresergeant-perthuis.com/) on questions pertaining to [Singular Learning Theory](https://sites.google.com/view/sumiowatanabe/home) and its application to Active Inference and biological systems. 
 
-I am interested in computational algebraic geometry and [singular learning theory](https://sites.google.com/view/sumiowatanabe/home), and their application to biology.
+I graduated from the [MVA](https://www.master-mva.com/) program at [ENS Paris-Saclay](https://ens-paris-saclay.fr/) with a Master 2. Previously, I obtained a Masters and a Bachelors in Mathematics from [King's College London](https://www.kcl.ac.uk/).
