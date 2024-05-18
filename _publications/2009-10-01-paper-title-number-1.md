@@ -2,9 +2,9 @@
 title: "A Short Presentation of Active Inference"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'pre-publication'
 date: 2024-01-03
-venue: 'pre-publication'
+#venue: 'pre-publication'
 paperurl: 'https://www.researchgate.net/publication/379840423_A_short_presentation_of_Active_Inference'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
